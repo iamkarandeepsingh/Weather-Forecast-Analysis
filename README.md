@@ -1,7 +1,5 @@
 # Weather-Forecast-Analysis
 
----
-
 ## 📄 Dataset Description
 
 ### 1. `Weather Test Data.csv`
